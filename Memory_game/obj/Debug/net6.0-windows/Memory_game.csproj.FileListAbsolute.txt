@@ -1,0 +1,17 @@
+C:\Users\alexx\source\repos\Memory_game\Memory_game\bin\Debug\net6.0-windows\Memory_game.exe
+C:\Users\alexx\source\repos\Memory_game\Memory_game\bin\Debug\net6.0-windows\Memory_game.deps.json
+C:\Users\alexx\source\repos\Memory_game\Memory_game\bin\Debug\net6.0-windows\Memory_game.runtimeconfig.json
+C:\Users\alexx\source\repos\Memory_game\Memory_game\bin\Debug\net6.0-windows\Memory_game.dll
+C:\Users\alexx\source\repos\Memory_game\Memory_game\bin\Debug\net6.0-windows\Memory_game.pdb
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.Form1.resources
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.Properties.Resources.resources
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.csproj.GenerateResource.cache
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.AssemblyInfoInputs.cache
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.AssemblyInfo.cs
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.dll
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\refint\Memory_game.dll
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.pdb
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\Memory_game.genruntimeconfig.cache
+C:\Users\alexx\source\repos\Memory_game\Memory_game\obj\Debug\net6.0-windows\ref\Memory_game.dll
